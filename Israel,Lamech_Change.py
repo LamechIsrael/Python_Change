@@ -2,7 +2,7 @@
 # CS 1110A - Programming in Python    #
 # Module 1 - Exercise 2 - Change      #
 # Author: Lamech Israel               #
-# Date:   01/09/2022                  #
+#                                     #
 #######################################
 
 
